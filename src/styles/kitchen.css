@@ -1,0 +1,45 @@
+.per-kitchen-order {
+    background-color: rgb(252, 249, 249);
+    margin: 40px;
+    padding: 10px;
+    border-radius: 7px;
+    min-width: 300px;
+    min-height: 300px;
+
+}
+
+.all-orders {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+table {
+    border-collapse: collapse;
+    width: 70%;
+
+}
+
+h2 {
+    text-align: center;
+    margin: 25px
+}
+
+td,
+th {
+    border: 2px solid #0a0a0a;
+    text-align: left;
+    padding: 8px;
+
+}
+
+.table-box {
+    display: flex;
+    justify-content: center;
+    width: 100%
+}
+
+
+.button-section {
+    text-align: center;
+}
